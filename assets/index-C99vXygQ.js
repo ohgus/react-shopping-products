@@ -627,4 +627,4 @@ Error generating stack: `+o.message+`
             margin-top: 1rem;
             padding: 0.7rem;
             justify-content: center;
-          `,children:"닫기"})]})]}),r)};function f1(){return k(or,{children:j($p,{theme:H,children:[k(jh,{styles:Hh}),k(I0,{children:k(J0,{children:k(q0,{children:j(B0,{children:[k(Jh,{}),k(M0,{}),k(j0,{}),k(c1,{})]})})})})]})})}async function d1(){const{worker:e}=await ad(()=>import("./browser-C2gJvD7o.js"),[]);return e.start({onUnhandledRequest:"bypass"})}d1().then(()=>{bo.createRoot(document.getElementById("root")).render(k(Oa.StrictMode,{children:k(f1,{})}))});
+          `,children:"닫기"})]})]}),r)};function f1(){return k(or,{children:j($p,{theme:H,children:[k(jh,{styles:Hh}),k(I0,{children:k(J0,{children:k(q0,{children:j(B0,{children:[k(Jh,{}),k(M0,{}),k(j0,{}),k(c1,{})]})})})})]})})}async function d1(){const{worker:e}=await ad(()=>import("./browser-C2gJvD7o.js"),[]);return e.start({onUnhandledRequest:"bypass",serviceWorker:{url:"/react-shopping-products/mockServiceWorker.js"}})}d1().then(()=>{bo.createRoot(document.getElementById("root")).render(k(Oa.StrictMode,{children:k(f1,{})}))});
